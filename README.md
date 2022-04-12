@@ -6,7 +6,7 @@ This is a Complete Master Class in Microsoft Power Bi -2022.
 
 You can do alot Transformation in the QueryEditor such as , Renaming, cleaning the Null values etc.
 
--- `unpivoted other columns` changing other columns to be properly formated. 
+-- `unpivoted other columns` changing other columns to  rows
 
 
 ###### mini Project-Creating a data model.

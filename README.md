@@ -15,7 +15,7 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 ## Data Transformation- The Query Editor.
 
-> when comnecting the Power Bi to a `website`, Navigate to the top left hand corner and click on `Datasource`,  navigate to website and connect either bny adding the URL or adding the `API` of the site as well as the `Key`. 
+> when connecting the Power Bi to a `website`, Navigate to the top left hand corner and click on `Datasource`,  navigate to website and connect either by adding the URL or adding the `API` of the site as well as the `Key`. 
 
 > The ``Transform` feature in QueryEditor enbles you to do alot of `Data cleaning` such as  `extract` method to extract data from colums, `split` data from columns and so on. 
 

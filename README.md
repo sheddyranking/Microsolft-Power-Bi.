@@ -22,3 +22,5 @@ The ``Transform` feature in QueryEditor enbles you to do alot of `Data cleaning`
 `Groupby` can be archieve with `conditional columns` in the `QueryEditor`
 
 under `add column` feature in QueryEditor `Creat column from exmample` by `selection` can also be used to Extract values from other columns accurately. 
+
+Try to understand the difference types of `MergeQuery` before merging any table 

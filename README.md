@@ -19,3 +19,6 @@ when comnecting the Power Bi to a `website`, Navigate to the top left hand corne
 
 The ``Transform` feature in QueryEditor enbles you to do alot of `Data cleaning` such as  `extract` method to extract data from colums, `split` data from columns and so on. 
 
+`Groupby` can be archieve with `conditional columns` in the `QueryEditor`
+
+

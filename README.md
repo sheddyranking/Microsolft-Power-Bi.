@@ -30,4 +30,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 *** To `Group Rows` use the `Apend Quieries` feature .
 
- *** `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our tale. and the reasons for this is to increase the performance of our model.
+ *** `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our table. and the reasons for this is to increase the performance of our model. usaully a collection of cleaned other dimensional table that are been compressed in the star schema.
+ 

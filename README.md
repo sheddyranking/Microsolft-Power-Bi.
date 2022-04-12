@@ -29,4 +29,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 *** `Power Query` in Power BI provides very effective functionality to `pivot` and `unpivot` columns. For the pivot functionality you turn `rows` to `columns` and for the unpivot functionality the `inverse` is true where columns are transformed into rows
 
 *** To `Group Rows` use the `Apend Quieries` feature .
- 
+
+ *** `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our tale. and the reasons for this is to increase the performance of our model.

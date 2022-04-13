@@ -33,6 +33,6 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 >  `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our table. and the reasons for this is to increase the performance of our model. usaully a collection of cleaned other dimensional table that are been compressed in the star schema.
  ## Data Transformation-Advanced.
 
-> Increasing the Query `Performance`, it is better to `Reference`  a Table than `Duplicate`, as the Duplicate will also need to read same Data from the SSource.
+> Increasing the Query `Performance`, it is better to `Reference`  a Table than `Duplicate`, as the Duplicate will also need to read same Data from the Source.
 
  

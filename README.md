@@ -37,3 +37,4 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > Increasing the `Model Performance` can be archive by reducing the number tables being loaded into the model from QueryEditor. This can simply be done by unchecking the `Enable load` button when a schema is rightclicked.
  
+> Increasing the `Model Performance` can also be archive by Using the `Groupby` Function in the `Transform` feature. 

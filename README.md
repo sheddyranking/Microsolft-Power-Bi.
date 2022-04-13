@@ -35,4 +35,4 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
  ## Data Transformation-Advanced.
 
-Increasing the Query `Performance`, it is better to `Reference`  a Table than `Duplicate`, as the Duplicate will also need to read same Data from the SSource.
+> Increasing the Query `Performance`, it is better to `Reference`  a Table than `Duplicate`, as the Duplicate will also need to read same Data from the SSource.

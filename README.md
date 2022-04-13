@@ -15,24 +15,24 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 ## Data Transformation- The Query Editor.
 
-*** when comnecting the Power Bi to a `website`, Navigate to the top left hand corner and click on `Datasource`,  navigate to website and connect either bny adding the URL or adding the `API` of the site as well as the `Key`. 
+> when connecting the Power Bi to a `website`, Navigate to the top left hand corner and click on `Datasource`,  navigate to website and connect either by adding the URL or adding the `API` of the site as well as the `Key`. 
 
-*** The ``Transform` feature in QueryEditor enbles you to do alot of `Data cleaning` such as  `extract` method to extract data from colums, `split` data from columns and so on. 
+> The ``Transform` feature in QueryEditor enbles you to do alot of `Data cleaning` such as  `extract` method to extract data from colums, `split` data from columns and so on. 
 
-*** `Groupby` can be archieve with `conditional columns` in the `QueryEditor`.
+> `Groupby` can be archieve with `conditional columns` in the `QueryEditor`.
 
-*** under `add column` feature in QueryEditor `Creat column from exmample` by `selection` can also be used to Extract values from other columns accurately. 
+> under `add column` feature in QueryEditor `Creat column from exmample` by `selection` can also be used to Extract values from other columns accurately. 
 
-*** Try to understand the difference types of `MergeQuery` before merging any table 
+> Try to understand the difference types of `MergeQuery` before merging any table 
 
 
-*** `Power Query` in Power BI provides very effective functionality to `pivot` and `unpivot` columns. For the pivot functionality you turn `rows` to `columns` and for the unpivot functionality the `inverse` is true where columns are transformed into rows
+> `Power Query` in Power BI provides very effective functionality to `pivot` and `unpivot` columns. For the pivot functionality you turn `rows` to `columns` and for the unpivot functionality the `inverse` is true where columns are transformed into rows
 
-*** To `Group Rows` use the `Apend Quieries` feature .
+> To `Group Rows` use the `Apend Quieries` feature .
 
- *** `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our table. and the reasons for this is to increase the performance of our model. usaully a collection of cleaned other dimensional table that are been compressed in the star schema.
- 
-
+>  `The Fact table/dimension model` also called the `Star Schema` is used to reduce the amount of data stored in our table. and the reasons for this is to increase the performance of our model. usaully a collection of cleaned other dimensional table that are been compressed in the star schema.
  ## Data Transformation-Advanced.
 
 > Increasing the Query `Performance`, it is better to `Reference`  a Table than `Duplicate`, as the Duplicate will also need to read same Data from the SSource.
+
+ 

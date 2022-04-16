@@ -44,3 +44,4 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 ## Creating Our Model.
 
 > `Cardinality`: `one-to-many`=> table are joined on this bases when one has unique dimension and the other does not. `one-to-one`=> when both of the tables has the same dimension. etc.
+> `Cross Filter`: This shows the direction in which our data is going to be filtered, it could be `Single` or `Both`.

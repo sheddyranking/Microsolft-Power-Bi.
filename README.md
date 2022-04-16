@@ -40,3 +40,7 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 > Increasing the `Model Performance` can also be archive by Using the `Groupby` Function in the `Transform` feature. 
 
 > `Parameter`, can be used to transform our data dynamically such as, filtering our data or even using it to create Custom columns.
+
+## Creating Our Model.
+
+> `Cardinality`: `one-to-many`=> table are joined on this bases when one has unique dimension and the other does not. `one-to-one`=> when both of the tables has the same dimension. etc.

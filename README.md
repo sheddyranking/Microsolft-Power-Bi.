@@ -48,3 +48,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 
 ## Data Visualization.
+
+> `Conditional Formatting` on Table Visuals can be archieved with `Specific Column` Features and `Cell Elements`. 

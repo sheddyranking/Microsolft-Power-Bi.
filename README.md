@@ -53,3 +53,6 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 > `Conditional Formatting` on Table Visuals can be archieved with `Specific Column` Features and `Cell Elements`. 
 
 > `Tooltips`- This indicate the Hover details, Power BI automathically does this for you. but you can still add more details to it.
+
+> Note: Use `Pie Chart` to visual a data when the total is equal to 100%.
+

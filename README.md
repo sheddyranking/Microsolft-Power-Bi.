@@ -51,3 +51,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 ## Data Visualization.
 
 > `Conditional Formatting` on Table Visuals can be archieved with `Specific Column` Features and `Cell Elements`. 
+
+> `Tooltips`- This indicate the Hover details, Power BI automathically does this for you. but you can still add more details to it.

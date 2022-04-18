@@ -66,3 +66,4 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > `Drill Through`: After Drill down- you can drag column to Drill through field and from the first page you can Drill through any connect pages to display the required Output.
 
+> `Decomposition Tree` Another Essential Tool in Data Visualization. 

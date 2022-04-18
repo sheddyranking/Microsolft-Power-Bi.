@@ -56,3 +56,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > Note: Use `Pie Chart` to visual a data when the total is equal to 100%.
 
+> `Filter-Menu Bar` Feature Supports `Advanced Filtering`-Which you could aggreagte values with certain parameters, `Basic Filtering`-here you could select all or a set of values to be Filtered, `Top N`-here you define a top count value to be filtered. 
+ 

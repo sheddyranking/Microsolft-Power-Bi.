@@ -60,3 +60,4 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > Note: `Cross Filtering and Edit Interaction`-Can be archived by clicking on the a visual then navigating to `Format` Rebin then clicking on `Edit Interactrion` to Turn-Off the Cross Filtering for some Tables and enable you get a a proper visual.
 
+> `Sync Slicer`- Used to Synchronize two pages and Each Action taken by one will be affected by both.

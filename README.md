@@ -63,3 +63,6 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 > `Sync Slicer`- Used to Synchronize two pages and Each Action taken by one will be affected by both.
 
 > Add alot of Columns in `X-axis` to Enable `Drill-down` in `Bar-chat`. 
+
+> `Drill Through`: After Drill down- you can drag column to Drill through field and from the first page you can Drill through any connect pages to display the required Output.
+

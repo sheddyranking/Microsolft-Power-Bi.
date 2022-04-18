@@ -57,4 +57,6 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 > Note: Use `Pie Chart` to visual a data when the total is equal to 100%.
 
 > `Filter-Menu Bar` Feature Supports `Advanced Filtering`-Which you could aggreagte values with certain parameters, `Basic Filtering`-here you could select all or a set of values to be Filtered, `Top N`-here you define a top count value to be filtered. 
- 
+
+> Note: `Cross Filtering and Edit Interaction`-Can be archived by clicking on the a visual then navigating to `Format` Rebin then clicking on `Edit Interactrion` to Turn-Off the Cross Filtering for some Tables and enable you get a a proper visual.
+

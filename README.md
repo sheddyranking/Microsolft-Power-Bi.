@@ -70,6 +70,6 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > `Secondary Values` are inportant to consider because it helps you see the corelation. 
 
-> `Analytics search bar` is mostly available when we are making our forcast. enables features like `Trending`, `Percentage`, `Forcast` etc.
+> `Analytics search bar` is mostly available when we are making our forcast. enables features like `Trend line`, `Percentage`, `Forcast` etc.
 
 

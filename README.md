@@ -68,13 +68,16 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > `Decomposition Tree` Another Essential Tool in Data Visualization. 
 
+
 > `Secondary Values` are inportant to consider because it helps you see the corelation. 
 
 > `Analytics search bar` is mostly available when we are making our forcast. enables features like `Trend line`, `Percentage`, `Forcast` etc.
 
 > `(Q & A) Visual` Helps in answeering all user questions quiclky.. once the schema's are prepared and loaded in the model, the Q&A provides suggested questions as well as the suggested questions visuals provided by the moderator. 
 
+> https://github.com/sheddyranking/Microsolft-Power-Bi./blob/main/Data%20Visualization/Data%20Visualization.pdf 
+
+
 ## Python and Power BI
 
-Data Transformation can be done with Python scripts in the Query Editor, when a transfortion is don remember to load,close and apply the schema  you want to visualize in the model. 
-
+Data Transformation can be done with Python scripts in the Query Editor, when a transfortion is don remember to load,close and apply the schema  you want to visualize in the model.

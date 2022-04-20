@@ -72,4 +72,5 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 
 > `Analytics search bar` is mostly available when we are making our forcast. enables features like `Trend line`, `Percentage`, `Forcast` etc.
 
+> `(Q & A) Visual` Helps in answeering all user questions quiclky.. once the schema's are prepared and loaded in the model, the Q&A provides suggested questions as well as the suggested questions visuals provided by the moderator.  
 

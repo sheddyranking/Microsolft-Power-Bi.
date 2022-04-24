@@ -89,3 +89,7 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 > `MEASURES & CALCULATED COLUMNS`: the main difference is that `Measures` are not physically existing on the table, but are visually Existing. While the `Calculated Columns` are both physically and visually existing on the tables. they are better than calculated columns because, when you need space on your machine, Measures will serve better as they donot occupy space on the machine. 
 
 > Some Calcutlated table expresion can be archived with `SUMX`, where you pass in the TableName and TableExpression. Note: `SUMX` is diifernt from `SUM`, in terms of `Aggr`. 
+
+## DAX - Calculate Function. 
+
+

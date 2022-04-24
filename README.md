@@ -81,3 +81,8 @@ You can do alot Transformation in the QueryEditor such as , Renaming, cleaning t
 ## Python and Power BI
 
 Data Transformation can be done with Python scripts in the Query Editor, when a transfortion is don remember to load,close and apply the schema  you want to visualize in the model.
+
+## DAX - Essential 
+
+> The `RELATED` Method is used to pull a table from another column.
+

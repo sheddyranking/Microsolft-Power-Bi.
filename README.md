@@ -92,4 +92,4 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 ## DAX - Calculate Function. 
 
-
+> In `CALCULATE` Function, you can use a Keys measure within a keys measure.  

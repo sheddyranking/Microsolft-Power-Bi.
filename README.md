@@ -98,4 +98,5 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > The `FILTERING`: Function can be use to change the context within a table.
 
-> The `ALL` Filter is used to filter records within the `CALCULATE` Function and it mostly applicable in calculating the percentage of a record. 
+> The `ALL` Filter is used to filter records within the `CALCULATE` Function and it mostly applicable in calculating the percentage of a record. The `ALL` Function in Power BI Atually removes all the filters and in tables and in columns.
+

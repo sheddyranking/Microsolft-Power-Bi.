@@ -102,3 +102,11 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > The `ALLSELECTED` Filter returns All the Rows and Columns in a table, ingoring all the filters applied within the query and allowing the once Applied outside of query. Also help you get the 100% Total values, which can be useful in some cases. 
 
+> The `ALLEXCEPT` Filter, returns all the rows and ingnore the once affected by filters.
+
+## DAT- Time Intelligence.
+
+>`DATADD`: Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.
+
+
+

@@ -100,3 +100,5 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > The `ALL` Filter is used to filter records within the `CALCULATE` Function and it mostly applicable in calculating the percentage of a record. The `ALL` Function in Power BI Atually removes all the filters and in tables and in columns.
 
+> The `ALLSELECTED` Filter returns All the Rows and Columns in a table, ingoring all the filters applied within the query and allowing the once Applied outside of query. Also help you get the 100% Total values, which can be useful in some cases. 
+

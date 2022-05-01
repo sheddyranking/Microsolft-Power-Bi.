@@ -126,7 +126,7 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > `//` is used to comment out code in Power Bi. 
 
-> `Quick Measures` Can be use to Perform all DAX- Calculation be predifined Framework, Only Disadvantage is the CODES are Complicated to Understand. Therefore it is always important to understand the DAX Language as this Measures can be created with simple Synthax.
+> `Quick Measures` Can be use to Perform all DAX- Calculation with predifined Frameworks, Only Disadvantage is that SYTHAX are Complicated to Understand. Therefore it is always important to understand the DAX Language as this Measures can be created with simple Synthax.
 
 
 

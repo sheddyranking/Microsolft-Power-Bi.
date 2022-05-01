@@ -112,3 +112,6 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > `DATESYTD` Here everything is added Up from the Qter of the year.
 
+> `TOTALYTD` Does Most of the aggr and Filtering without including the synthax the `CALCULATE` Function can do with Embedded DAT, But the `CALCULATE` Function with Embedded DAT is Mostly recommend because it Enables Multiple Filtering and it is Flexible than the `TOTALYTD` Which Enables Only one Filter.
+
+

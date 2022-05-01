@@ -114,4 +114,13 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > `TOTALYTD` Does Most of the aggr and Filtering without including the synthax the `CALCULATE` Function can do with Embedded `Time Intelligence Function`, But the `CALCULATE` Function with Embedded `Time Intelligence Function` is Mostly recommend because it Enables Multiple Filtering and it is Flexible than the `TOTALYTD` Which Enables Only one Filter.
 
+## DAX-Advanced Topic.
+
+`LEFT` Function Returns a specific Number of characters from the start of a text String. 
+
+
+
+
+
+
 

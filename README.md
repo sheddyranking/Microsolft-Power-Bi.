@@ -118,6 +118,12 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 `LEFT` Function Returns a specific Number of characters from the start of a text String. 
 
+#### Logical Operators
+> `&&` (and), `||`(or), `<>`(not equal to)
+
+> the `NOT` Function can also do the same work as the `<>` operator.
+
+
 
 
 

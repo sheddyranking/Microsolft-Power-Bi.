@@ -108,5 +108,5 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 >`DATADD`: Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.
 
-
+> `DATESMTD` Returns the set of Dates upto the current date. This is actually an incremented process whereby the Sum total of the previous Month is Added to the Current. 
 

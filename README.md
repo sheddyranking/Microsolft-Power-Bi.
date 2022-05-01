@@ -121,7 +121,7 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 #### Logical Operators
 > `&&` (and), `||`(or), `<>`(not equal to)
 
-> the `NOT` Function can also do the same work as the `<>` operator.
+> the `NOT` Logical Function can also do the same work as the `<>` operator.
 
 
 

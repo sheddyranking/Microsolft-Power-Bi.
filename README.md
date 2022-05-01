@@ -110,3 +110,5 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > `DATESMTD` Returns the set of Dates upto the current date. This is actually an incremented process whereby the Sum total of the previous Month is Added to the Current. 
 
+> `DATESYTD` Here everything is added Up from the Qter of the year.
+

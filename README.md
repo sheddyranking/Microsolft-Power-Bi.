@@ -128,7 +128,9 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > `Quick Measures` Can be use to Perform all DAX- Calculation with predifined Frameworks, Only Disadvantage is that SYTHAX are Complicated to Understand. Therefore it is always important to understand the DAX Language as this Measures can be created with simple Synthax.
 
+## Tell A Story with Your Data.
 
+> https://github.com/sheddyranking/Microsolft-Power-Bi./blob/main/12.Tell-a-Story/Tell-a-Story.pdf
 
 
 

@@ -132,6 +132,8 @@ Data Transformation can be done with Python scripts in the Query Editor, when a 
 
 > https://github.com/sheddyranking/Microsolft-Power-Bi./blob/main/12.Tell-a-Story/Tell-a-Story.pdf
 
+> https://github.com/sheddyranking/Microsolft-Power-Bi./blob/main/12.Tell-a-Story/Tell-a-story1.pdf
+
 
 
 
